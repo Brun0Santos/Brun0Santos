@@ -49,6 +49,7 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="jaeger" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiA0ETD6XFeMk7fSPnZOUvEqReLuWvy08Rw&s" width="46" height="46"/>
 <img alt="active-directory" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory-1.svg" width="46" height="46"/>
 <img alt="bitcucket" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_s3eLcMBJLgOvc5kbm0UOrap8VvfPZ1zOg&s" width="46" height="46"/>
+<img src="https://logo.svgcdn.com/d/opentelemetry-original.svg" width="46" height="46">
 
 **Social**
 
