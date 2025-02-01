@@ -50,6 +50,9 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="active-directory" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory-1.svg" width="46" height="46"/>
 <img alt="bitcucket" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_s3eLcMBJLgOvc5kbm0UOrap8VvfPZ1zOg&s" width="46" height="46"/>
 <img src="https://logo.svgcdn.com/d/opentelemetry-original.svg" width="46" height="46">
+<img src="https://bandalo.it/wp-content/uploads/2013/05/vmware_vsphere_client_high_def_icon_by_flakshack-d4o96dy.png" width="46" height="46">
+<img alt="snort" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" width="46" height="46">
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,azure&theme=light)]()
 
 **Social**
 
