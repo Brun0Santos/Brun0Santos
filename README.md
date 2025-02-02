@@ -25,6 +25,8 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="aurora" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/48/Arch_Amazon-Aurora_48.svg" width="46px" height="46px">
 <img alt="elasticache" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Database/48/Arch_Amazon-ElastiCache_48.svg" width="46px" height="46px">
 <img alt="s3" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="46px" height="46px">
+<img alt="snowball" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/48/Arch_AWS-Snowball_48.svg" width="46px" height="46px">
+<img alt="ebs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Storage/48/Arch_Amazon-Elastic-Block-Store_48.svg" width="46px" height="46px">
 <br>
 <img alt="eventbridge" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_Amazon-EventBridge_48.svg" width="46px" height="46px">
 <img alt="sqs" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_App-Integration/Arch_48/Arch_Amazon-Simple-Queue-Service_48.svg" width="46px" height="46px">
@@ -34,11 +36,14 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="msk" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_48/Arch_Amazon-Managed-Streaming-for-Apache-Kafka_48.svg" width="46px" height="46px">
 <img alt="router-53" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/64/Arch_Amazon-Route-53_64@5x.png" width="46px" height="46px">
 <img alt="glue" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Analytics/Arch_48/Arch_AWS-Glue_48.svg" width="46px" height="46px">
+<img alt="transit-gw" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/48/Arch_AWS-Transit-Gateway_48.svg" width="46px" height="46px">
+<img alt="load-balancer" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="46px" height="46px">
 <img alt="vpc" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="46px" height="46px">
 <img alt="shield" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/48/Arch_AWS-Shield_48.svg" width="46px" height="46px">
 <img alt="waf" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.svg" width="46px" height="46px">
 <br>
-<img alt="load-balancer" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.svg" width="46px" height="46px">
+<img alt="iam" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="46px" height="46px">
+<img alt="codnito" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/48/Arch_Amazon-Cognito_48.svg" width="46px" height="46px">
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,ansible,terraform)]()
 <img alt="istio" src="https://dt-cdn.net/hub/logos/istio-and-envoy-service-mesh-prometheus.png" width="46" height="46"/>
 <img alt="datadog" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjkTMvj42vuYcmDntHYVT5lqGeEtPtK2Gmg&s" width="46px" height="46px">
