@@ -59,6 +59,11 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="snort" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" width="46" height="46">
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,azure&theme=light)]()
 
+**Badges**
+
+<img alt="aws solutions architect" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px">
+
+
 **Social**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0Santos&hide=html,powershell,shell,css&size_weight=0.03&count_weight=0&langs_count=5&layout=compact&theme=default">
