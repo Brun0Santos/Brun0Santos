@@ -61,7 +61,7 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 **Badges**
 
 <img alt="aws solutions architect" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="140px">
-
+<img alt="terraform" src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" height="140">
 
 **Social**
 
