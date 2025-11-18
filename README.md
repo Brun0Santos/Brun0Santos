@@ -46,17 +46,16 @@ Java | Spring Boot | Go | Kotlin | AWS 🥷🏻
 <img alt="codnito" src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Security-Identity-Compliance/48/Arch_Amazon-Cognito_48.svg" width="46px" height="46px">
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,ansible,terraform)]()
 <img alt="istio" src="https://dt-cdn.net/hub/logos/istio-and-envoy-service-mesh-prometheus.png" width="46" height="46"/>
-<img alt="datadog" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjkTMvj42vuYcmDntHYVT5lqGeEtPtK2Gmg&s" width="46px" height="46px">
+<img alt="helm" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjkTMvj42vuYcmDntHYVT5lqGeEtPtK2Gmg&s" width="46px" height="46px">
 <img alt="zabbix" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="46" height="46"/>
 <img alt="argocd" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="46" height="46"/>
 <br>
-<img alt="datadog" src="https://static-00.iconduck.com/assets.00/datadog-icon-1915x2048-i5fk5tcw.png" width="46" height="46"/>
-<img alt="jaeger" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiA0ETD6XFeMk7fSPnZOUvEqReLuWvy08Rw&s" width="46" height="46"/>
 <img alt="active-directory" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory-1.svg" width="46" height="46"/>
 <img alt="bitcucket" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy_s3eLcMBJLgOvc5kbm0UOrap8VvfPZ1zOg&s" width="46" height="46"/>
 <img src="https://logo.svgcdn.com/d/opentelemetry-original.svg" width="46" height="46">
 <img src="https://bandalo.it/wp-content/uploads/2013/05/vmware_vsphere_client_high_def_icon_by_flakshack-d4o96dy.png" width="46" height="46">
 <img alt="snort" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" width="46" height="46">
+<img alt="datadog" src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png" width="46" height="46">
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,azure&theme=light)]()
 
 **Badges**
